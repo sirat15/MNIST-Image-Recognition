@@ -8,3 +8,7 @@ This repository holds the basic neural network implementation for image classifi
 ## Prerequisites
 -Google Colab
 -Pythorch (1.5.0)
+
+
+## Acknowledgement
+This code is performed as an activity from the online learning platform Udemy. Name of the course is " Pytorch for Deep Learning and Computer Vision". 
